@@ -1,0 +1,14 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "prompter_jeremylshepherd",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    }
+  ],
+  "generated": "2022-03-14T20:46:48.235408Z",
+  "generator": "pub",
+  "generatorVersion": "2.16.1"
+}
