@@ -1,6 +1,7 @@
 name: prompter_jeremylshepherd
-version: 0.0.1
-description: A library to help build Dart CLI programs
+version: 0.0.2
+description: A library to help build CLI wizards, created in Udemy course
+homepage: https://github.com/jeremylshepherd/dart_cli_tut
 
 environment:
   sdk: ">=2.15.0 <3.0.0"
